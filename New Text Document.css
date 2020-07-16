@@ -1,0 +1,26 @@
+body{
+margin-left: 15%;
+margin-right: 15%;
+}
+
+.div-1{background-color: wheat;
+
+}
+
+.div-3{background-color: wheat;
+}
+.flex-container{display:flex;
+flex-direction:row;
+}
+.div-1 img{width: 400px; height: 300px;}
+.div-2 img{width: 700px; height: 450px;}
+
+.welcomemsg {margin-left: 45px;
+margin-right: 45px;
+}
+
+p {color: darkgrey;
+}
+
+.welcomemsg p{width: 90%;
+}
